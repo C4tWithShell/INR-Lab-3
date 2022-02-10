@@ -1,2 +1,2 @@
-# INR-Lab-3
-VLANs &amp; Fault Tolerance
+# INR Lab 3 - VLANs & Fault Tolerance
+In this lab, you will take a look at some of the more advanced topics in switching. You will be learning about and configuring two aspects of those topics: virtual local area networks and fault tolerance. Virtual LANs (VLANs) is dividing the network at a Layer 2 level and Fault tolerance is making sure your network is up most of the time. Those aspects are very important when we are talking about enterprise-grade networks but they are not very complicated.
